@@ -6,4 +6,5 @@ test line in two
 test line in three
 test line in four
 test line in five
-
+I want to delete or remove .readme.md.swap file,
+Add commit info
